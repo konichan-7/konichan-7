@@ -3,7 +3,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg-drawing-dark.svg">
-  <img height="100" alt="" src="./assets/svg-drawing.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/svg-drawing.svg">
+  <img height="100" alt="konichan" src="./assets/svg-drawing.svg">
 </picture>
 
 <a href="https://github.com/CatsJuice/ssr-contributions-img">
