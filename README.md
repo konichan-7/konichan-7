@@ -1,6 +1,11 @@
  
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg-drawing-dark.svg">
+  <img height="100" alt="" src="./assets/svg-drawing.svg">
+</picture>
+
 <a href="https://github.com/CatsJuice/ssr-contributions-img">
 
    <picture>
