@@ -1,11 +1,12 @@
- 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg-drawing-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/svg-drawing.svg">
-  <img height="100" alt="konichan" src="./assets/svg-drawing.svg">
+  <img height="100" alt="konichan" src="./assets/svg-drawing.svg" style="display: block; margin: 0 auto;">
 </picture>
+
+<br>
 
 <a href="https://github.com/CatsJuice/ssr-contributions-img">
 
